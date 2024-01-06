@@ -12,9 +12,10 @@ For the first three units of this cohort we've provided you with 30 beginner-fri
 
 
 ## Expectations
-- **Install ** node modules in <code>DAILY-CODE-CHALLENGES</code> folder using <code>npm i</code> (only do this once!)
+- **Install** node modules in <code>DAILY-CODE-CHALLENGES</code> folder using <code>npm i</code> (only do this once!)
 - **Solve** the challenges in the <code>code-challenges</code> folder
-- **Test** using <code>npm test</code>
+- **Test** using <code>npm test</code> from any folder.
+- **Commit && Push** your changes to github!
 
 
 ## Weekly Submission Schedule
